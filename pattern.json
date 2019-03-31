@@ -1,0 +1,6 @@
+{
+  "pattern":[
+    "http://www.mcbbs.net/forum.*.html",
+    "http://www.mcbbs.net/thread.*.html"
+  ]
+}
