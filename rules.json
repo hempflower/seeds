@@ -1,0 +1,8 @@
+{
+  "rules":[
+    {
+      "site":"http://www.mcbbs.net",
+      "select":".plhin .pct"
+    }
+   ]
+}
